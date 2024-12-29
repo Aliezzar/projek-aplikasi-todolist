@@ -1,5 +1,9 @@
 <?php
+// untuk menambah todolist
+function addTodolist(string $todo) {
+    global $todolist;
 
-function addTodolist() {
-    
+    $number = sizeof($todolist) + 1;
+
+    $todolist[$number] = $todo;
 }
