@@ -19,11 +19,11 @@ I created this application to learn how PHP works and to study the various error
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Aliezzar/studi-kasus-todolist.git
+    git clone https://github.com/Aliezzar/projek-aplikasi-todolist.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd studi-kasus-todolist
+    cd projek-aplikasi-todolist
     ```
 
 ## Usage
