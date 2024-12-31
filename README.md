@@ -19,7 +19,7 @@ I created this application to learn how PHP works and to study the various error
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/studi-kasus-todolist.git
+    git clone https://github.com/Aliezzar/studi-kasus-todolist.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -32,11 +32,3 @@ Run the application using the following command:
 ```sh
 php app.php
 ```
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests. Any improvements or suggestions are welcome!
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
