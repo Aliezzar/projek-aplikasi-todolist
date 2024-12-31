@@ -1,8 +1,8 @@
 <?php
 
-require_once "../helper/input.php";
-require_once "../model/todolist.php";
-require_once "../businessLogic/addTodolist.php";
+require_once __DIR__ . "/../helper/input.php";
+require_once __DIR__ . "/../model/todolist.php";
+require_once __DIR__ . "/../businessLogic/addTodolist.php";
 
 function viewAddTodolist() {
     echo "MENAMBAH TODO" . PHP_EOL;
