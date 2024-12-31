@@ -10,3 +10,5 @@ require_once __DIR__ . "/view/viewShowTodolist.php";
 require_once __DIR__ . "/helper/input.php";
 
 echo "Aplikasi Todolist" . PHP_EOL;
+
+viewShowTodolist();
